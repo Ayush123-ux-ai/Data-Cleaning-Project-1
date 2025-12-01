@@ -1,4 +1,4 @@
-# Data-Cleaning-Project-Python
+# Data-Cleaning-Python-Project
 # 🧿Obejctives
 This project focuses on data cleaning and deriving basic insights such as total revenue, total orders, and the most ordered items. Data analysis often involves missing values,, and inconsistent formats that can lead to misleading results. In Jupyter Notebook , I demonstrate various data cleaning techniques to prepare the dataset for analysis and modeling
 
